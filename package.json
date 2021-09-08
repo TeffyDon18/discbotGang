@@ -1,0 +1,30 @@
+{
+  "name": "discbotgang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src",
+    "dev": "nodemon ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeffyDon18/discbotGang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeffyDon18/discbotGang/issues"
+  },
+  "homepage": "https://github.com/TeffyDon18/discbotGang#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.6"
+  }
+}
